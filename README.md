@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Docker
-- 📫 How to reach me www.linkedin.com/in/gabriela-miron-40a94913b
+- 📫 How to reach me www.linkedin.com/in/gabriela-miron-devops/
 
 <!---
 gakengabinatsume/gakengabinatsume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
